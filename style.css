@@ -57,7 +57,7 @@ body{
 }
 /*banner*/
 .banner {
-    width: 1000px;
+    max-width: 1000px;
     height:470.58px;
     overflow: hidden;
 }
